@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "path": "sample",
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "displayName": "Sample API",
+    "isCurrent": true,
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://echo.playground.azure-api.net/api",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}
