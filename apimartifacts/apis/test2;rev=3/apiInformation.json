@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "path": "",
+    "apiRevision": "3",
+    "apiRevisionDescription": "revision 3",
+    "authenticationSettings": {},
+    "description": "",
+    "displayName": "test",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://gb-test-api.azure-api.net",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}
