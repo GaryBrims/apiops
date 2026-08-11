@@ -3,7 +3,7 @@ info:
   title: Echo API
   version: '1.0'
 servers:
-  - url: https://gb-test-api.azure-api.net/echo
+  - url: https://test-gb-api.azure-api.net/echo
 paths:
   /resource:
     get:

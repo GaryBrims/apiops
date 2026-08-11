@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/products/unlimited",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/0cfe2870-d256-4119-b0a3-16293ac11bdc/resourceGroups/1-e63f5c06-playground-sandbox/providers/Microsoft.ApiManagement/service/test-gb-api/users/1",
+    "state": "active"
+  }
+}
