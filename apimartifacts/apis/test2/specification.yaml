@@ -4,11 +4,12 @@ info:
   description: ''
   version: '1.0'
 servers:
-  - url: https://gb-test-api.azure-api.net
+  - url: https://test-gb-api.azure-api.net
 paths:
   /ping:
     get:
       summary: ping
+      description: ping
       operationId: ping
       responses:
         '200':
